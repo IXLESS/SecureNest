@@ -2,6 +2,7 @@
 
 SecureNest is a modern Android password manager built with Jetpack Compose, designed for simplicity, security, and clean architecture.
 It includes password generation, breach-checking via API, secure storage, and a clean, modular code structure.
+
 <img width="373" height="825" alt="image" src="https://github.com/user-attachments/assets/76fcd044-a40b-4c2d-b546-4dc7386ba712" />
 
 <img width="372" height="826" alt="image" src="https://github.com/user-attachments/assets/788fa157-b000-4a9c-9f7e-9b142c63ac5b" />
